@@ -5,5 +5,6 @@ A list of awesome papers which refers to wireless communication, network stuctur
 
 | Project Name | Paper | Source | Code/Project Link | Star | Date | Summary |
 |--------------|-------|--------|-------------------|------|------|-----------------|
-| InstantStyle-Plus | RFMagus: Programming the Radio Environment With Networked Metasurfaces | MobiCom 2024 | [InstantStyle-Plus](https://img.shields.io/github/stars/owner/repo?style=social)  | ![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social) | June 2024 | - |
+| RFMagus | RFMagus: Programming the Radio Environment With Networked Metasurfaces | MobiCom 2024 | https://dl.acm.org/doi/abs/10.1145/3636534.3649347 | - | June 2024 | - |
+| AutoMS | |AutoMS: Automated Service for mmWave Coverage Optimization using Low-cost Metasurfaces| MobiCom 2024 |  https://dl.acm.org/doi/abs/10.1145/3636534.3649347 | - | May 2024 | - | 
 
